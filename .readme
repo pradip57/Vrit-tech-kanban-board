@@ -1,0 +1,8 @@
+This project is completed by using vite+react
+Installation 
+I have used yarn so for installation of vite 
+=> yarn create vite
+
+For implementaion of drag and drop , i have use @dnd-kit/core,@dnd-kit/sortable
+
+
